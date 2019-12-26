@@ -1,0 +1,166 @@
+1dokuja	/~dokuja/phlog	circumlunar.space	70
+1dbucklin	/users/dbucklin/posts	sdf.org	70
+1sysdharma	/users/sysdharma/phlog	sdf.org	70
+1sparcipx	/users/sparcipx/phlog	sdf.org	70
+1gunnarfrost	/users/gunnarfrost	sdf.org	70
+1solderpunk	/~solderpunk/phlog	circumlunar.space	70
+1slugmax - zaibatsu	/~slugmax/phlog	zaibatsu.circumlunar.space	70
+1slugmax - republic	/~slugmax/phlog	republic.circumlunar.space	70
+1slugmax - sdf	/users/slugmax/phlog	sdf.org	70
+1pet84rik	/users/pet84rik/BLOG	sdf.org	70
+1xmanmonk	/users/xmanmonk	sdf.org	70
+1mhj	/users/mhj/phlog	sdf.org	70
+1defanor	/~defanor	uberspace.net	70
+1jirka	/users/jirka/Phlog	sdf.org	70
+1jebug29	/users/jebug29/log	sdf.org	70
+1nydel	/users/nydel/phlog	sdf.org	70
+1cat	/phlog	baud.baby	70
+1snowdusk	/users/snowdusk/phlog	sdf.org	70
+1logout	/phlog	i-logout.cz	70
+1jandal	/~jandal/phlog	grex.org	70
+1papa	/~papa/pgphlog/2018	grex.org	70
+1melton	/users/melton/phlog	sdf.org	70
+1psztrnk	/users/psztrnk/log	sdf.org	70
+1bradmac	/users/bradmac/Log	sdf.org	70
+1daphne	/users/daphne	sdf.org	70
+1jzp	/users/jzp/phlog	sdf.org	70
+1uninformativ	/twitpher	uninformativ.de	70
+1solene	/~solene	dataswamp.org	70
+1siobhan	/users/siobhan	sdf.org	70
+1yargo - sdf	/users/yargo/glog	sdf.org	70
+1yargo - circumlunar	/~yargo/clog	circumlunar.space	70
+1yin feng	/users/tomatobodhi/phlog	sdf.org	70
+1cpider	/users/cpider	sdf.org	70
+1zelbrium	/users/zelbrium	sdf.org	70
+1sgilles	/users/sgilles/phlog	sdf.org	70
+1elw	/users/elw/phlog	sdf.org	70
+1strixy	/users/strixy/phlog	sdf.org	70
+1caff	/~caff/feels	tilde.town	70
+1vilmibm	/~vilmibm/feels	tilde.town	70
+1tfurrows - sdf	/users/tfurrows/phlog	sdf.org	70
+1tfurrows - grex	/~tfurrows/phlog	grex.org	70
+1tfurrows - circumlunar	/~tfurrows/phlog	circumlunar.space	70
+1mijk	/~mijk/phlog	grex.org	70
+1lostnbronx	/lostnbronx/lostnblog/newer-stuff	gopher.info-underground.net	70
+1christyotwisty	/users/christyotwisty/phlog	sdf.org	70
+1mre	/users/mre	sdf.org	70
+1ja	/users/ja	sdf.org	70
+1oms	/users/oms	sdf.org	70
+1hairylarry	/users/hairylarry	sdf.org	70
+1ckeen	/ckeen/phlog	vernunftzentrum.de	70
+1dubst3pp4	/Phlog	l00t.de	70
+1zcrayfish	/phlog/	gopher.zcrayfish.soy	70
+1rach	/users/rach/phlog	sdf.org	70
+1alberti	/users/alberti/phlog	sdf.org	70
+1jakob	/phlog	jakob.space	70
+1cmccabe	/users/cmccabe/	sdf.org	70
+1tomasino	/phlog	gopher.black	70
+1deftly	/articles/	deftly.net	70
+1kroovy	/phlog	kroovy.de	70
+1tfurrows - vernunftzentrum	/tfurrows/phlog	vernunftzentrum.de	70
+1f6k	/users/f6k	sdf.org	70
+1keiya	/users/keiya/phlog	sdf.org	70
+1kirch	/users/kirch/phlog	sdf.org	70
+1c25l	/~c25l/	circumlunar.space	70
+1christina	/~christina/	circumlunar.space	70
+1andram	/~andram/phlog	circumlunar.space	70
+1ymodem	/phlog/2018	ymodem.org	70
+1imrowan	/users/imrowan/	sdf.org	70
+1jstg	/users/jstg/phlog	sdf.org	70
+1endorphant	/~endorphant/feels/	tilde.town	70
+1tfurrows - tilde	/~tfurrows/feels/	tilde.town	70
+1giantessgnostic	/users/giantessgnostic/phlog	sdf.org	70
+1pkotrcka	/users/pkotrcka/	sdf.org	70
+1st john karp		gopher.stjo.hn	70
+1cdmnky	/users/cdmnky/phlog	sdf.org	70
+1julienxx	/users/julienxx/Log	sdf.org	70
+1hnb	/users/hnb/phlog	sdf.org	70
+1rach	/users/rach/phlog	sdf.org	70
+1ben's phlog	/~ben/phlog	tilde.team	70
+1ben's blog	/~ben/blog	tilde.team	70
+1nydel microphlog	/~nydel/microphlog/	grex.org	70
+1jeremij	/users/jeremij/phlog	sdf.org	70
+1ratfactor	/users/ratfactor/phlog	sdf.org	70
+1The Boston Diaries	/phlog.gopher	gopher.conman.org	70
+1tomasino - tilde.team	/~tomasino/phlog	tilde.team	70
+1hobbs	/~cmhobbs/	circumlunar.space	70
+1thesaint	/users/theesaint/Phlog/	sdf.org	70
+1tty	/users/tty/phlog/	sdf.org	70
+1krixano	/~krixano/phlog	circumlunar.space	70
+1bradfonseca	/users/bradfonseca/phlog	sdf.org	70
+1solobsd	/phlog/	gopher.solobsd.org	70
+1kvothe	/~kvothe/	circumlunar.space	70
+1luke	/~luke/	circumlunar.space	70
+1moji	/~moji/phlog	circumlunar.space	70
+1tengu	/~tengu	circumlunar.space	70
+1heavysquare	/	heavysquare.com	70
+1tekmav	/phlogs/	solarbaby.tekmav.space	70
+1cmccabe - circumlunar	/~cmccabe/	circumlunar.space	70
+1sloum	/~sloum/phlog/	circumlunar.space	70
+1visiblink	/~visiblink/phlog/	circumlunar.space	70
+11436 Files	/1436_Files	1436.ninja	70
+1schroeder	/users/schroeder/	sdf.org	70
+1xiled	/users/xiled/phlog/	sdf.org	70
+1cpj	/~cpj/phlog	zaibatsu.circumlunar.space	70
+1losthalo	/~losthalo/nusuth	zaibatsu.circumlunar.space	70
+0ulcer atom	/users/ulcer/atom.xml	sdf.org	70
+1cosmic voyage	/log	cosmic.voyage	70
+1hardmous	/users/hardmous/Phlog	sdf.org	70
+1lro	/users/lro/phlog/technical/	sdf.org	70
+1spring	/~spring/phlog/	republic.circumlunar.space	70
+0jynx atom	/phlog.atom	1436.ninja	70
+1kensanata	/	alexschroeder.ch	70
+1zach	/~zach/phlog/	tilde.team	70
+1payphone	/users/payphone/phlog	sdf.org	70
+1erxeto	/phlog	e1e0.net	70
+1demure	/md.dcgi?/blog	demu.red	70
+1retreaux	/users/retreaux/cgi-bin/phlash.cgi	sdf.org	70
+1meta4	/users/mmeta4/Phlog	sdf.org	70
+1ransondrew	/users/ransondrew/Phlog	sdf.org	70
+1fallingknife	/users/fallingknife/phlog	sdf.org	70
+1raymii feed	/feed.xml	raymii.org	70
+1grey area	/phlog	ascraeus.org	70
+1cdmnky - seedy	/phlog	seedy.xyz	70
+1kagu-tsuchi	/phlog/	kagu-tsuchi.com	70
+1gallowsgryph	/users/gallowsgryph/phlog/	sdf.org	70
+1mateusz notes	/notes/	gopher.viste.fr	70
+1brendantcc	/~brendantcc/phlog/	aussies.space	70
+1philmacfly	/users/philmacfly/phlog/	sdf.org	70
+1lich	/~lich	dataswamp.org	70
+1mhj - colorfield	/~mhj	colorfield.space	70
+1jboverf	/~jboverf	colorfield.space	70
+1inpefess	/gopherlog	boris.shminke.ml	70
+1aliasless	/~aliasless	colorfield.space	70
+1cmccabe - colorfield	/~cmccabe	colorfield.space	70
+1sloum - colorfield	/~sloum/phlog/	colorfield.space	70
+1lambda lab	/phlog/	thelambdalab.xyz	70
+1rain1	/~rain1/phlog/	tilde.team	70
+1henrycase	/users/henrycase	sdf.org	70
+1aliasless	/~aliasless/phlog	republic.circumlunar.space	70
+1emar	/~emar/phlog/	republic.circumlunar.space	70
+1katolaz	/~katolaz/phlog/	republic.circumlunar.space	70
+1nermagermalous	/~nermagermalous/phlog/	republic.circumlunar.space	70
+1oldfolio	/~oldfolio/phlog	republic.circumlunar.space	70
+1rak	/~rak/phlog	republic.circumlunar.space	70
+1solderpunk - project gemini	/~solderpunk/gemini	zaibatsu.circumlunar.space	70
+1shane	/shane/	ascendingcreations.com	70
+1trnslts	/users/trnslts/feels/	sdf.org	70
+1fosslinux	/~fosslinux/phlog/	aussies.space	70
+1verisimilitudes		verisimilitudes.net	70
+1fox - black	/users/fox/phlog	tilde.black	70
+1fc03cf - pink	/~fc03cf/phlog	tilde.pink	70
+1JR's Notes		sawv.org	70
+1hexDSL	/blogs	gopher.xpenguin.club	70
+1yam655		yam655.com	70
+1jb55	/phlog	jb55.com	70
+1prosthetic conscience	/blog/	jfm.carcosa.net	70
+1kc3ntg	/~kc3ntg	radiofreqs.space	70
+1mnw	/users/mnw/	gopher.club	70
+1mmww	/users/mmww/phlog	sdf.org	70
+1nynergy	/users/nynergy/phlog	sdf.org	70
+1ddc	/users/ddc/phlog	sdf.org	70
+1rusty	/users/rusty/	gopher.club	70
+1fr. robert	/users/frrobert/GopherBlog	gopher.club	70
+1tiwesdaeg	/~tiwesdaeg/phlog/	tilde.pink	70
+1kiwi	/phlog	kiwidev.xyz	70
+1johngodlee	/users/johngodlee/posts	gopher.club	70
