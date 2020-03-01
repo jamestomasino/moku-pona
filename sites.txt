@@ -81,9 +81,8 @@
 1nydel microphlog	/~nydel/microphlog/	grex.org	70
 1jeremij	/users/jeremij/phlog	sdf.org	70
 1ratfactor	/users/ratfactor/phlog	sdf.org	70
-1The Boston Diaries	/phlog.gopher	gopher.conman.org	70
+1The Boston Diaries	phlog.gopher	gopher.conman.org	70
 1tomasino - tilde.team	/~tomasino/phlog	tilde.team	70
-1hobbs	/~cmhobbs/	circumlunar.space	70
 1thesaint	/users/theesaint/Phlog/	sdf.org	70
 1tty	/users/tty/phlog/	sdf.org	70
 1krixano	/~krixano/phlog	circumlunar.space	70
@@ -164,3 +163,16 @@
 1tiwesdaeg	/~tiwesdaeg/phlog/	tilde.pink	70
 1kiwi	/phlog	kiwidev.xyz	70
 1johngodlee	/users/johngodlee/posts	gopher.club	70
+1jan	phlog	jan.bio	70
+1chals	/users/chals/phlog	sdf.org	70
+1hobbsc glog	/users/hobbsc/	gopher.club	70
+1every	/users/every/JOURNALS/	sdf.org	70
+1sjc	/users/sjc/	gopher.club	70
+1glaciurso	/users/glaciurso/phlog	sdfeu.org	70
+1gopher.is	/phlog	gopher.is	70
+1rpi4	/Phlogged	gopher.petergarner.net	70
+0shroom party	/atom.xml	shroom.party	70
+1smoldering wizard	/phlog	gopher.smolderingwizard.com	70
+1srjskam	/phlog	srjskam.iki.fi	70
+1tildecow	/phlog	tildecow.com	70
+1freet	/~freet/phlog	aussies.space	70
