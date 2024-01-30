@@ -17,8 +17,6 @@
 1cat	/phlog	baud.baby	70
 1snowdusk	/users/snowdusk/phlog	sdf.org	70
 1logout	/phlog	i-logout.cz	70
-1jandal	/~jandal/phlog	grex.org	70
-1papa	/~papa/pgphlog/2018	grex.org	70
 1melton	/users/melton/phlog	sdf.org	70
 1psztrnk	/users/psztrnk/log	sdf.org	70
 1bradmac	/users/bradmac/Log	sdf.org	70
@@ -38,9 +36,7 @@
 1caff	/~caff/feels	tilde.town	70
 1vilmibm	/~vilmibm/feels	tilde.town	70
 1tfurrows - sdf	/users/tfurrows/phlog	sdf.org	70
-1tfurrows - grex	/~tfurrows/phlog	grex.org	70
 1tfurrows - circumlunar	/~tfurrows/phlog	circumlunar.space	70
-1mijk	/~mijk/phlog	grex.org	70
 1lostnbronx	/lostnbronx/lostnblog/newer-stuff	gopher.info-underground.net	70
 1christyotwisty	/users/christyotwisty/phlog	sdf.org	70
 1mre	/users/mre	sdf.org	70
@@ -73,7 +69,6 @@
 1rach	/users/rach/phlog	sdf.org	70
 1ben's phlog	/~ben/phlog	tilde.team	70
 1ben's blog	/~ben/blog	tilde.team	70
-1nydel microphlog	/~nydel/microphlog/	grex.org	70
 1jeremij	/users/jeremij/phlog	sdf.org	70
 1ratfactor	/users/ratfactor/phlog	sdf.org	70
 1The Boston Diaries	phlog.gopher	gopher.conman.org	70
