@@ -166,7 +166,7 @@
 1gnarledthicket	/notes	gopher.gnarledthicket.net	70
 1slothbear	/notes	gopher.gnarledthicket.net	70
 1void	/users/burrhole/phlog	sdf.org	70
-1jns	/phlog	linkerror.com	70
+1jns	/phlog	gopher.linkerror.com	70
 1edlinfan		edlinfan.duckdns.org	7000
 1lumidify	/phlog/	lumidify.org	70
 1rak	/phlog	rak.ac	70
