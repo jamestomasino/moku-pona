@@ -101,7 +101,6 @@
 1zach	/~zach/phlog/	tilde.team	70
 1payphone	/users/payphone/phlog	sdf.org	70
 1erxeto	/phlog	e1e0.net	70
-1demure	/md.dcgi?/blog	demu.red	70
 1retreaux	/users/retreaux/cgi-bin/phlash.cgi	sdf.org	70
 1meta4	/users/mmeta4/Phlog	sdf.org	70
 1ransondrew	/users/ransondrew/Phlog	sdf.org	70
@@ -116,7 +115,6 @@
 1lich	/~lich	dataswamp.org	70
 1mhj - colorfield	/~mhj	colorfield.space	70
 1jboverf	/~jboverf	colorfield.space	70
-1inpefess	/gopherlog	boris.shminke.ml	70
 1aliasless	/~aliasless	colorfield.space	70
 1cmccabe - colorfield	/~cmccabe	colorfield.space	70
 1sloum - colorfield	/~sloum/phlog/	colorfield.space	70
@@ -129,14 +127,12 @@
 1nermagermalous	/~nermagermalous/phlog/	republic.circumlunar.space	70
 1oldfolio	/~oldfolio/phlog	republic.circumlunar.space	70
 1solderpunk - project gemini	/~solderpunk/gemini	zaibatsu.circumlunar.space	70
-1shane	/shane/	ascendingcreations.com	70
 1trnslts	/users/trnslts/feels/	sdf.org	70
 1fosslinux	/~fosslinux/phlog/	aussies.space	70
 1verisimilitudes		verisimilitudes.net	70
 1fc03cf - pink	/~fc03cf/phlog	tilde.pink	70
 1JR's Notes		sawv.org	70
 1yam655		yam655.com	70
-1jb55	/phlog	jb55.com	70
 1prosthetic conscience	/blog/	jfm.carcosa.net	70
 1kc3ntg	/~kc3ntg	radiofreqs.space	70
 1mmww	/users/mmww/phlog	sdf.org	70
@@ -152,7 +148,6 @@
 1every	/users/every/JOURNALS/	sdf.org	70
 1sjc	/users/sjc/	gopher.club	70
 1glaciurso	/users/glaciurso/phlog	sdfeu.org	70
-1gopher.is	/phlog	gopher.is	70
 1rpi4	/Phlogged	gopher.petergarner.net	70
 1smoldering wizard	/phlog	gopher.smolderingwizard.com	70
 1srjskam	/phlog	srjskam.iki.fi	70
