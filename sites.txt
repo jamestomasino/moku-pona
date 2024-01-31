@@ -166,3 +166,7 @@
 1anna	/users/agk/	gopher.club	70
 1AUTOMA	/phlog	triapul.cz	70
 1bandali	/~bandali/phlog/	gopher.gnu.ca	70
+1stug	/users/stug/phlog/	sdf.org	70
+1icu	/phlog	gopher.icu	70
+1jayscot		jay.scot	70
+1left_adjoint	/%7Eleft_adjoint/phlog	rawtext.club	70
