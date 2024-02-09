@@ -165,7 +165,7 @@
 1screwtape	/users/screwtape/	gopher.club	70
 1anna	/users/agk/	gopher.club	70
 1AUTOMA	/phlog	triapul.cz	70
-1bandali	/~bandali/phlog/	gopher.gnu.ca	70
+1bandali	/~bandali/phlog/	kelar.org	70
 1stug	/users/stug/phlog/	sdf.org	70
 1icu	/phlog	gopher.icu	70
 1jayscot		jay.scot	70
