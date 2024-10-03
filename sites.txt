@@ -1,9 +1,9 @@
-1dokuja	/~dokuja/phlog	circumlunar.space	70
+1dokuja	/~dokuja/phlog	zaibatsu.circumlunar.space	70
 1dbucklin	/users/dbucklin/posts	sdf.org	70
 1sysdharma	/users/sysdharma/phlog	sdf.org	70
 1sparcipx	/users/sparcipx/phlog	sdf.org	70
 1gunnarfrost	/users/gunnarfrost	sdf.org	70
-1solderpunk	/~solderpunk/phlog	circumlunar.space	70
+1solderpunk	/~solderpunk/phlog	zaibatsu.circumlunar.space	70
 1slugmax - zaibatsu	/~slugmax/phlog	zaibatsu.circumlunar.space	70
 1slugmax - republic	/~slugmax/phlog	republic.circumlunar.space	70
 1slugmax - sdf	/users/slugmax/phlog	sdf.org	70
@@ -26,7 +26,7 @@
 1solene	/~solene	dataswamp.org	70
 1siobhan	/users/siobhan	sdf.org	70
 1yargo - sdf	/users/yargo/glog	sdf.org	70
-1yargo - circumlunar	/~yargo/clog	circumlunar.space	70
+1yargo - circumlunar	/~yargo/clog	zaibatsu.circumlunar.space	70
 1yin feng	/users/tomatobodhi/phlog	sdf.org	70
 1cpider	/users/cpider	sdf.org	70
 1zelbrium	/users/zelbrium	sdf.org	70
@@ -36,7 +36,7 @@
 1caff	/~caff/feels	tilde.town	70
 1vilmibm	/~vilmibm/feels	tilde.town	70
 1tfurrows - sdf	/users/tfurrows/phlog	sdf.org	70
-1tfurrows - circumlunar	/~tfurrows/phlog	circumlunar.space	70
+1tfurrows - circumlunar	/~tfurrows/phlog	zaibatsu.circumlunar.space	70
 1lostnbronx	/lostnbronx/lostnblog/newer-stuff	gopher.info-underground.net	70
 1christyotwisty	/users/christyotwisty/phlog	sdf.org	70
 1mre	/users/mre	sdf.org	70
@@ -53,9 +53,8 @@
 1f6k	/users/f6k	sdf.org	70
 1keiya	/users/keiya/phlog	sdf.org	70
 1kirch	/users/kirch/phlog	sdf.org	70
-1c25l	/~c25l/	circumlunar.space	70
-1christina	/~christina/	circumlunar.space	70
-1andram	/~andram/phlog	circumlunar.space	70
+1christina	/~christina/	zaibatsu.circumlunar.space	70
+1andram	/~andram/phlog	zaibatsu.circumlunar.space	70
 1ymodem	/phlog/2018	ymodem.org	70
 1imrowan	/users/imrowan/	sdf.org	70
 1jstg	/users/jstg/phlog	sdf.org	70
@@ -75,17 +74,15 @@
 1tomasino - tilde.team	/~tomasino/phlog	tilde.team	70
 1thesaint	/users/theesaint/Phlog/	sdf.org	70
 1tty	/users/tty/phlog/	sdf.org	70
-1krixano	/~krixano/phlog	circumlunar.space	70
 1bradfonseca	/users/bradfonseca/phlog	sdf.org	70
 1solobsd	/phlog/	gopher.solobsd.org	70
-1kvothe	/~kvothe/	circumlunar.space	70
-1luke	/~luke/	circumlunar.space	70
-1moji	/~moji/phlog	circumlunar.space	70
-1tengu	/~tengu	circumlunar.space	70
+1kvothe	/~kvothe/	zaibatsu.circumlunar.space	70
+1moji	/~moji/phlog	zaibatsu.circumlunar.space	70
+1tengu	/~tengu	zaibatsu.circumlunar.space	70
 1heavysquare	/	heavysquare.com	70
-1cmccabe - circumlunar	/~cmccabe/	circumlunar.space	70
-1sloum	/~sloum/phlog/	circumlunar.space	70
-1visiblink	/~visiblink/phlog/	circumlunar.space	70
+1cmccabe - circumlunar	/~cmccabe/	zaibatsu.circumlunar.space	70
+1sloum	/~sloum/phlog/	zaibatsu.circumlunar.space	70
+1visiblink	/~visiblink/phlog/	zaibatsu.circumlunar.space	70
 11436 Files	/1436_Files	1436.ninja	70
 1schroeder	/users/schroeder/	sdf.org	70
 1xiled	/users/xiled/phlog/	sdf.org	70
@@ -170,4 +167,4 @@
 1icu	/phlog	gopher.icu	70
 1jayscot		jay.scot	70
 1left_adjoint	/%7Eleft_adjoint/phlog	rawtext.club	70
-0fab	/phlog/rss.xml	redterminal.org	70
+1fab	/phlog/	redterminal.org	70
