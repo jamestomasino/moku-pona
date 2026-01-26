@@ -10,7 +10,7 @@
 1pet84rik	/users/pet84rik/BLOG	sdf.org	70
 1xmanmonk	/users/xmanmonk	sdf.org	70
 1mhj	/users/mhj/phlog	sdf.org	70
-1defanor	/~defanor	uberspace.net	70
+1defanor	/~defanor	theunix.net	70
 1jirka	/users/jirka/Phlog	sdf.org	70
 1jebug29	/users/jebug29/log	sdf.org	70
 1nydel	/users/nydel/phlog	sdf.org	70
@@ -162,7 +162,7 @@
 1screwtape	/users/screwtape/	gopher.club	70
 1anna	/users/agk/	gopher.club	70
 1AUTOMA	/phlog	triapul.cz	70
-1bandali	/~bandali/phlog/	kelar.org	70
+1bandali	/~bandali/	kelar.org	70
 1stug	/users/stug/phlog/	sdf.org	70
 1icu	/phlog	gopher.icu	70
 1jayscot		jay.scot	70
