@@ -168,3 +168,4 @@
 1jayscot		jay.scot	70
 1left_adjoint	/%7Eleft_adjoint/phlog	rawtext.club	70
 1fab	/phlog/	redterminal.org	70
+0dan	/~dan/rss.xml	envs.net	70
