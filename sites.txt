@@ -170,3 +170,4 @@
 1fab	/phlog/	redterminal.org	70
 0dan	/~dan/rss.xml	envs.net	70
 1iolfree	/~iolfree/phlog/	tilde.club	70
+1keyboardan	/~keyboardan/phlog/	tilde.club	70
